@@ -4,12 +4,12 @@
  $from=$_POST["email"];
  $msg=$_POST["message"];
  $receiver="raheel.gandhi90@gmail.com";
- $subject="Contact Interactive Resume";
+ $subject="Respose From Interactive Resume";
 
 $message = 
 <html>
 <head>
-<title>MyWALL Contact</title>
+<title>Webpage Contact</title>
 </head>
 <body>
 <table width='50%' border='0' align='center' cellpadding='0' cellspacing='0'>
